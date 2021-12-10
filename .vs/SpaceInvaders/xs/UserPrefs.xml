@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{435C8792-8CED-684F-1777-1C6A741F16E3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CollisionPlayerBulletController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpawnMonsterController.cs" Line="15" Column="54" />
+      <File FileName="Assets/Scripts/CollisionPlayerBulletController.cs" Line="23" Column="47" />
+      <File FileName="Assets/Scripts/CollisionPlayerWithEnemy.cs" Line="19" Column="40" />
+      <File FileName="Assets/Scripts/MoveToPlayerController.cs" Line="11" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceInvaders" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CollisionPlayerBulletController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f1685e88-5b21-4c81-93a6-ce99fe89f7be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
